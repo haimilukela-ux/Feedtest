@@ -20,6 +20,16 @@
       <link>http://example.com/test/1758705360</link>
       <guid isPermaLink="true">http://example.com/test/1758705360</guid>
       <dc:creator><![CDATA[John Smith]]></dc:creator>
+      <pubDate>Wed, 24 Sep 2025 11:20:00 GMT</pubDate>
+      <category>DE</category>
+    </item>
+       
+    <item>
+      <title><![CDATA[Lorem ipsum 2025-09-24T09:16:00Z]]></title>
+      <description><![CDATA[Aute amet enim sint minim officia sit ipsum nulla ipsum exercitation.]]></description>
+      <link>http://example.com/test/1758705360</link>
+      <guid isPermaLink="true">http://example.com/test/1758705360</guid>
+      <dc:creator><![CDATA[John Smith]]></dc:creator>
       <pubDate>Wed, 24 Sep 2025 09:16:00 GMT</pubDate>
     </item>
 
