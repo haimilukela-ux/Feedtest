@@ -15,12 +15,12 @@
     <ttl>1</ttl>
 
     <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:16:00Z]]></title>
+      <title><![CDATA[Lorem ipsum 2025-09-24T09:16:00Zawda]]></title>
       <description><![CDATA[Aute amet enim sint minim officia sit ipsum nulla ipsum exercitation.]]></description>
       <link>http://example.com/test/1758705360</link>
       <guid isPermaLink="true">http://example.com/test/1758705360</guid>
       <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 11:20:00 GMT</pubDate>
+      <pubDate>Wed, 24 Sep 2025 11:24:00 GMT</pubDate>
       <category>DE</category>
     </item>
        
@@ -30,89 +30,9 @@
       <link>http://example.com/test/1758705360</link>
       <guid isPermaLink="true">http://example.com/test/1758705360</guid>
       <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:16:00 GMT</pubDate>
+      <pubDate>Wed, 24 Sep 2025 11:20:00 GMT</pubDate>
+      <category>DE</category>
     </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:15:00Z]]></title>
-      <description><![CDATA[Laborum in excepteur officia minim est dolor excepteur occaecat elit culpa laboris duis non.]]></description>
-      <link>http://example.com/test/1758705300</link>
-      <guid isPermaLink="true">http://example.com/test/1758705300</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:15:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:14:00Z]]></title>
-      <description><![CDATA[Deserunt eiusmod laborum do ipsum consectetur.]]></description>
-      <link>http://example.com/test/1758705240</link>
-      <guid isPermaLink="true">http://example.com/test/1758705240</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:14:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:13:00Z]]></title>
-      <description><![CDATA[Qui reprehenderit enim enim laborum mollit et sint ullamco ullamco esse proident proident pariatur ullamco.]]></description>
-      <link>http://example.com/test/1758705180</link>
-      <guid isPermaLink="true">http://example.com/test/1758705180</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:13:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:12:00Z]]></title>
-      <description><![CDATA[Excepteur culpa culpa consectetur deserunt mollit officia irure nulla ex.]]></description>
-      <link>http://example.com/test/1758705120</link>
-      <guid isPermaLink="true">http://example.com/test/1758705120</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:12:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:11:00Z]]></title>
-      <description><![CDATA[Do fugiat elit mollit mollit dolor amet incididunt nulla sint consequat esse occaecat in tempor.]]></description>
-      <link>http://example.com/test/1758705060</link>
-      <guid isPermaLink="true">http://example.com/test/1758705060</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:11:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:10:00Z]]></title>
-      <description><![CDATA[Minim laboris voluptate nulla quis do proident est aute ullamco excepteur.]]></description>
-      <link>http://example.com/test/1758705000</link>
-      <guid isPermaLink="true">http://example.com/test/1758705000</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:10:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:09:00Z]]></title>
-      <description><![CDATA[Esse irure nostrud sint veniam.]]></description>
-      <link>http://example.com/test/1758704940</link>
-      <guid isPermaLink="true">http://example.com/test/1758704940</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:09:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:08:00Z]]></title>
-      <description><![CDATA[Velit in incididunt amet deserunt.]]></description>
-      <link>http://example.com/test/1758704880</link>
-      <guid isPermaLink="true">http://example.com/test/1758704880</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:08:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title><![CDATA[Lorem ipsum 2025-09-24T09:07:00Z]]></title>
-      <description><![CDATA[Voluptate duis excepteur elit elit quis est magna labore nulla excepteur.]]></description>
-      <link>http://example.com/test/1758704820</link>
-      <guid isPermaLink="true">http://example.com/test/1758704820</guid>
-      <dc:creator><![CDATA[John Smith]]></dc:creator>
-      <pubDate>Wed, 24 Sep 2025 09:07:00 GMT</pubDate>
-    </item>
-
+       
   </channel>
 </rss>
